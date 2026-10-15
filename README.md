@@ -76,12 +76,12 @@ class Solution:
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 1      |
+| Easy       | 2      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **1**  |
+| **Total**  | **2**  |
 
-Milestone: completed a 10-day LeetCode streak after about three years of attempts.
+Milestone: completed a 100-day LeetCode streak after about three years of attempts.
 
 ## Goals
 
