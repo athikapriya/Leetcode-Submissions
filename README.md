@@ -54,8 +54,6 @@ Inside each topic folder, solutions are grouped by difficulty and named `<proble
 Each solution includes the problem link, difficulty, a short approach note, and time/space complexity:
 
 ```python
-# 1. Two Sum (Easy)
-# https://leetcode.com/problems/two-sum/
 # Approach: hash map of value -> index
 # Time: O(n) | Space: O(n)
 
@@ -77,9 +75,9 @@ class Solution:
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 3      |
-| Medium     | 0      |
+| Medium     | 1      |
 | Hard       | 0      |
-| **Total**  | **3**  |
+| **Total**  | **4**  |
 
 Milestone: completed a 100-day LeetCode streak after about three years of attempts.
 
