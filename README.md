@@ -74,10 +74,10 @@ class Solution:
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 3      |
+| Easy       | 4      |
 | Medium     | 1      |
 | Hard       | 0      |
-| **Total**  | **4**  |
+| **Total**  | **5**  |
 
 Milestone: completed a 100-day LeetCode streak after about three years of attempts.
 
