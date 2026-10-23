@@ -75,9 +75,9 @@ class Solution:
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 6      |
-| Medium     | 2      |
+| Medium     | 3      |
 | Hard       | 0      |
-| **Total**  | **8**  |
+| **Total**  | **9**  |
 
 Milestone: completed a 100-day LeetCode streak after about three years of attempts.
 
